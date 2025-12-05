@@ -48,9 +48,3 @@ The controller gains ($K_p$, $K_i$, $K_d$) are tuned using a systematic procedur
 * **Tuning Results:** Final optimized values for $K_p$, $K_i$, and $K_d$.
 * **Arduino Code Snippet:** Key sections of the C++ code demonstrating the real-time implementation of the discrete PID algorithm.
 * **Video:** Recorded demonstration of the DC motor tracking rectangle and sine wave trajectories.
-
-
-
-![controller](cute_people/PID_controller.jpg)
-![amiing](cute_people/ami_ing.jpg)
-![aminono](cute_people/ami_nono.jpg)
